@@ -2,5 +2,6 @@
 
 pip install pytest
 
-# test-task-for-workmate
+# Запуск
 
+python reader.py data1.csv --report payout
